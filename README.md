@@ -1,8 +1,4 @@
-Jakub Sukdol
 
-CS Student at CTU FEE
-
-Data Analysis, AI/ML
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
@@ -28,4 +24,3 @@ Data Analysis, AI/ML
 ## Connect with Me
 - 📧 Email: [kubasukdol@gmail.com](mailto:email@example.com)
 - 💼 LinkedIn: [Jakub Sukdol](https://www.linkedin.com/in/jakub-sukdol-02b236233/)
-
