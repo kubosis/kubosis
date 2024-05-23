@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p id="intro" style="color: #90ee90; opacity: 0; transform: scale(0.8); transition: all 3s;">
-  I'm Jakub, a Computer Science student at CTU FEE, specializing in Software Engineering and AI/ML.
+  I'm Jakub, a Computer Science student at CTU FEE, specializing in Data Analysis and AI/ML.
 </p>
 
 ## About Me
