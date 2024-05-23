@@ -1,8 +1,6 @@
-# Hi there 👋
-
-<p id="intro" style="color: #90ee90; opacity: 0; transform: scale(0.8); transition: all 3s;">
-  I'm Jakub, a Computer Science student at CTU FEE, specializing in Data Analysis and AI/ML.
-</p>
+Jakub Sukdol
+CS Student at CTU FEE
+Data Analysis, AI/ML
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
