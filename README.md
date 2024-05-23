@@ -1,5 +1,7 @@
 Jakub Sukdol
+
 CS Student at CTU FEE
+
 Data Analysis, AI/ML
 
 ## About Me
