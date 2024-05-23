@@ -1,4 +1,5 @@
 
+I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis and AI/ML.
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
