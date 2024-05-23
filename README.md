@@ -20,7 +20,10 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 - 💻 Working on Python-based data analysis projects
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubosis&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubosis&show_icons=true&theme=highcontrast)
+
+## Most Used Languages in github projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast)
 
 ## Connect with Me
 - 📧 Email: [kubasukdol@gmail.com](mailto:email@example.com)
