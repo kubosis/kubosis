@@ -46,7 +46,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/><br>Postgres
     </td>
     <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*wXtyhpOL5NK_w39UvZpADQ.gif" alt="Docker" width="55" height="40"/><br>Docker
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="40" height="40"/><br>Docker
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
