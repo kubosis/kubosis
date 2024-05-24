@@ -3,9 +3,7 @@
 
 I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis and AI/ML.
 
-
-<img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:1500x1000/2400x2400/filters:focal(750x500:751x501):no_upscale():format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24624554/236638_AI_music_musicians_covers_artists_HHerrera.gif" alt="ai" width="500" height="320"/>
-
+<img src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="ai" width="500" height="320"/>
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
