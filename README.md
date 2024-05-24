@@ -11,7 +11,6 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 - 🎓 **Education:** CTU FEE CS student
 - 🛠️ **Job:** Junior Data analyst at BOSCH 
 - 🧠 **Focus Areas:** Data analysis, AI/ML
-- 📚 **Current Project:** Bachelor's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
 
 ## My Technical Stack
 
@@ -54,6 +53,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 ## Projects & Interests
 - 🔍 Exploring the boundries of ML
 - 💻 Working on Python-based data analysis projects
+- 📚 **Current Project:** Bachelor's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
 
 ## Most Used Languages in GitHub projects
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast)
