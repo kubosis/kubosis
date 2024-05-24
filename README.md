@@ -48,11 +48,10 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 - 🔍 Exploring the boundries of ML
 - 💻 Working on Python-based data analysis projects
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubosis&show_icons=true&theme=highcontrast)
-
-## Most Used Languages in github projects
+## Most Used Languages in GitHub projects
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast)
+
+Althought C is the most prevalent language in my GitHub projects, I recently work mostly with python.
 
 ## Connect with Me
 - 📧 Email: [kubasukdol@gmail.com](mailto:email@example.com)
