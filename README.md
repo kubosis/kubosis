@@ -8,44 +8,37 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 
 ## My Technical Stack
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <div>Python</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-    <div>PyTorch</div>
-  </div>
-    <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/>
-    <div>PyG</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    <div>Pandas</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-    <div>Matplotlib</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-    <div>NumPy</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="PyQt" width="40" height="40"/>
-    <div>PyQt</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <div>C</div>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <div>C++</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/><br>PyTorch
+    </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/><br>PyG
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/><br>Matplotlib
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/><br>NumPy
+    </td>
+    <td align="center">
+      <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40"/><br>SciPy
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><br>C++
+    </td>
+  </tr>
+</table>
 
 
 ## Projects & Interests
