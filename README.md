@@ -3,7 +3,7 @@
 
 I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis and AI/ML.
 
-<img src="https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif" alt="ai" width="500" height="320"/>
+<img src="https://media3.giphy.com/media/4heseFMvObk9q/200w.gif?cid=6c09b952i63bo474fwztb4ho584rhyhpoww9kno11g7jwrr6&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="ai" width="320" height="320"/>
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
