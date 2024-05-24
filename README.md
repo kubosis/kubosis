@@ -25,7 +25,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
     </td>
     </td>
      <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="pyg" width="40" height="40"/><br>Sklearn
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="40" height="40"/><br>Sklearn
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
@@ -62,13 +62,21 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 - 💻 Working on Python-based data analysis projects
 - 📚 **Current Project:** Bachelor's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
 
+## Key Projects
+
+| Project     | Stack       | Description  |
+| ----------- | ----------- | ------------ |
+| [NeRa](https://github.com/kubosis/NeRa)       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/>      | Python package in PyTorch environment for seamless integration of statistical rating systems into graph neural networks.
+
+
+
 ## Most Used Languages in GitHub projects
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast)
 
 Althought C is the most prevalent language in my GitHub projects, I recently work mostly with python.
 
 ## Connect with Me
-- 📧 Email: [kubasukdol@gmail.com](mailto:email@example.com)
+- 📧 Email: [kubasukdol@gmail.com](mailto:kubasukdol@gmail.com)
 - 💼 LinkedIn: [Jakub Sukdol](https://www.linkedin.com/in/jakub-sukdol-02b236233/)
 
 
