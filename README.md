@@ -43,17 +43,16 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
       <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40"/><br>SciPy
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SciPy" width="40" height="40"/><br>Postgres
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/><br>Postgres
+    </td>
+    <td align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/1*wXtyhpOL5NK_w39UvZpADQ.gif" alt="Docker" width="55" height="40"/><br>Docker
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><br>C++
-    </td>
   </tr>
 </table>
-
 
 ## Projects & Interests
 - 🔍 Exploring the boundries of ML
