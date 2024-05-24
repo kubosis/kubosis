@@ -9,7 +9,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
-- 🛠️ **Job:** Junior Datanalyst at BOSCH 
+- 🛠️ **Job:** Junior Data analyst at BOSCH 
 - 🧠 **Focus Areas:** Data analysis, AI/ML
 - 📚 **Current Project:** Bachelor's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
 
