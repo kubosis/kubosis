@@ -45,6 +45,9 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
       <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40"/><br>SciPy
     </td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SciPy" width="40" height="40"/><br>Postgres
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
     </td>
     <td align="center">
