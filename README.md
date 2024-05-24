@@ -66,7 +66,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 
 | Project     | Stack       | Description  |
 | ----------- | ----------- | ------------ |
-| [NeRa](https://github.com/kubosis/NeRa)       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>PyTorch<br> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/><br>PyG      | Python package for seamless integration of statistical rating systems into graph neural networks in PyTorch environment.
+| <img src="https://github.com/kubosis/NeRa/blob/main/docs/logo.png" alt="PyTorch" width="60" height="40"/><br>[NeRa](https://github.com/kubosis/NeRa)       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>PyTorch<br> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/><br>PyG      | Python package for seamless integration of statistical rating systems into graph neural networks in PyTorch environment.
 
 
 
