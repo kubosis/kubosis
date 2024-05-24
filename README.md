@@ -25,6 +25,10 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
      <td align="center">
       <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/><br>PyG
     </td>
+    </td>
+     <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="pyg" width="40" height="40"/><br>Sklearn
+    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
     </td>
