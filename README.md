@@ -26,6 +26,9 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/><br>Matplotlib
     </td>
     <td align="center">
+      <img src="https://doc.qt.io/qtforpython-6/_static/qtforpython.png" alt="PyQt" width="40" height="40"/><br>PyQt
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/><br>NumPy
     </td>
     <td align="center">
