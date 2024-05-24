@@ -3,7 +3,7 @@
 
 I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis and AI/ML.
 
-<img src="https://assets-global.website-files.com/624ac40503a527cf47af4192/65313084ff0fb3453089947e_giphy.gif" alt="ai" width="320" height="320"/>
+<img src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" alt="ai" width="320" height="320"/>
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
