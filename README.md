@@ -7,8 +7,8 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis 
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
-- 🛠️ **Job:** Junior Data analyst at BOSCH 
-- 🧠 **Focus Areas:** Data analysis, AI/ML
+- 🛠️ **Job:** Junior Data scientist at BOSCH 
+- 🧠 **Focus Areas:** Data science, AI/ML
 
 ## My Technical Stack
 
