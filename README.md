@@ -1,7 +1,7 @@
 
 
 
-I'm Jakub, a Computer Science student at CTU FEE, specializing in Data analysis and AI/ML.
+I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science and AI/ML.
 
 <img src="https://static.wikia.nocookie.net/nyancat/images/6/6b/HCJazzCat.gif/revision/latest?cb=20221227075019" alt="ai" width="320" height="240"/>
 
