@@ -71,7 +71,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
 
 
 ## Most Used Languages in GitHub projects
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast&hide=html,jupyter%20notebook)
 
 Althought C is the most prevalent language in my GitHub projects, I recently work mostly with python.
 
