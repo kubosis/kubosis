@@ -39,6 +39,9 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
   <td align="center">
       <img src="https://blog.viasocket.com/blog/content/images/2025/04/5a28015a-b297-4639-987a-09d8f01010c2.png" alt="MCP Server" width="40" height="40"/><br>MCP Server
     </td>
+  <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/><br>FastAPI
+    </td>
    </tr>
    <tr>
     <td align="center">
@@ -64,6 +67,9 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
     </td>
      <td align="center">
       <img src="https://avatars.githubusercontent.com/u/39938107?v=4" alt="MlFlow" width="40" height="40"/><br>MlFlow
+    </td>
+     <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHhT0lhtqSDNWxRp-jWjGiqMvYce069W8uA&s" alt="SQL" width="40" height="40"/><br>SQL
     </td>
   </tr>
 
