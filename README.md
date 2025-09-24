@@ -33,6 +33,12 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/><br>Matplotlib
     </td>
+  <td align="center">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" alt="HuggingFace" width="40" height="40"/><br>HuggingFace
+    </td>
+  <td align="center">
+      <img src="https://blog.viasocket.com/blog/content/images/2025/04/5a28015a-b297-4639-987a-09d8f01010c2.png" alt="MCP Server" width="40" height="40"/><br>MCP Server
+    </td>
    </tr>
    <tr>
     <td align="center">
@@ -52,6 +58,12 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
+    </td>
+     <td align="center">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="40" height="40"/><br>LangChain
+    </td>
+     <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/39938107?v=4" alt="MlFlow" width="40" height="40"/><br>MlFlow
     </td>
   </tr>
 
