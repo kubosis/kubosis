@@ -80,7 +80,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
 - 💻 Working on Python-based data analysis projects
 - 📚 **Current Project:** Master's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
 
-## Key Projects
+## Key Personal / school Projects
 
 | Project     | Stack       | Description  |
 | ----------- | ----------- | ------------ |
