@@ -78,7 +78,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
 ## Projects & Interests
 - 🔍 Exploring the boundries of ML
 - 💻 Working on Python-based data analysis projects
-- 📚 **Current Project:** Bachelor's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
+- 📚 **Current Project:** Master's thesis on implementing statistical rating systems as graph neural network model layers in PyTorch
 
 ## Key Projects
 
@@ -98,7 +98,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
 Althought C is the most prevalent language in my GitHub projects, I recently work mostly with python.
 
 ## Connect with Me
-- 📧 Email: [kubasukdol@gmail.com](mailto:kubasukdol@gmail.com)
+- 📧 Email: [kuba.sukdol.7@proton.me](mailto:kuba.sukdol.7@proton.me)
 - 💼 LinkedIn: [Jakub Sukdol](https://www.linkedin.com/in/jakub-sukdol-02b236233/)
 
 
