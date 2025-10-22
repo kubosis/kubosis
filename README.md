@@ -60,7 +60,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" alt="Docker" width="40" height="40"/><br>Docker
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/><br>C
     </td>
      <td align="center">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="40" height="40"/><br>LangChain
