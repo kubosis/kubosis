@@ -7,7 +7,7 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
 
 ## About Me
 - 🎓 **Education:** CTU FEE CS student
-- 🛠️ **Job:** AI/ML engineer @ Generali, LLM/AI Consultand @ DevBalance
+- 🛠️ **Job:** AI/ML engineer (contract) @ Generali && LLM/AI Consultant @ DevBalance (contract)
 - 🧠 **Focus Areas:** Data science, AI/ML
 
 ## My Technical Stack
