@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakub
 
-I'm **Jakub Sukdol**, a **Computer Science student** at **CTU FEE**, specializing in **Data Science and AI/ML**.
+I'm **Jakub Sukdol**, a **Computer Science Masters student** at **CTU FEE**, specializing in **Data Science and AI/ML**.
 
 ## 🌐 Let's Connect
 - 📧 Email: [kuba.sukdol.7@proton.me](mailto:kuba.sukdol.7@proton.me)  
