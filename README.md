@@ -1,7 +1,8 @@
-
-
-
 I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science and AI/ML.
+
+## Let's connect
+- 📧 Email: [kuba.sukdol.7@proton.me](mailto:kuba.sukdol.7@proton.me)
+- 💼 LinkedIn: [Jakub Sukdol](https://www.linkedin.com/in/jakub-sukdol-02b236233/)
 
 <img src="https://static.wikia.nocookie.net/nyancat/images/6/6b/HCJazzCat.gif/revision/latest?cb=20221227075019" alt="ai" width="320" height="240"/>
 
@@ -96,9 +97,5 @@ I'm Jakub, a Computer Science student at CTU FEE, specializing in Data science a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast&hide=html,jupyter%20notebook)
 
 Althought C is the most prevalent language in my GitHub projects, I recently work mostly with python.
-
-## Connect with Me
-- 📧 Email: [kuba.sukdol.7@proton.me](mailto:kuba.sukdol.7@proton.me)
-- 💼 LinkedIn: [Jakub Sukdol](https://www.linkedin.com/in/jakub-sukdol-02b236233/)
 
 
