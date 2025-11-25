@@ -11,40 +11,9 @@ I'm **Jakub Sukdol**, a **Computer Science Masters student** at **CTU FEE**, spe
 ---
 
 ## 🧠 About Me
-- 🎓 **Education:** CTU FEE, Computer Science  
+- 🎓 **Education:** CTU FEE, Computer Science (curently pursuing masster's degree)
 - 🛠️ **Job:** AI/ML Engineer (Contract) @ Generali & LLM/AI Consultant (Contract) @ DevBalance  
 - 🧩 **Focus Areas:** Data Science, Machine Learning, AI, NLP, LLMs
-
----
-
-## 💼 Work Experience
-
-### 🧩 **AI/ML Consultant @ DevBalance**  
-📆 *May 2025 – Present*  
-As an individual contractor for **DevBalance**, I design and deploy **end-to-end machine learning solutions** for various clients.  
-- Developed a **legal AI chatbot** for **BDO CZ**, built within **Azure** using **LangChain**, **Azure OpenAI**, and **ChromaDB** to implement a **RAG-based knowledge system**.  
-- Responsible for **model integration**, **deployment**, and **optimization** in **cloud environments**, with direct client collaboration.  
-- Technologies: `LangChain`, `Azure OpenAI`, `FastAPI`, `ChromaDB`, `Docker`, `Python`
-
----
-
-### 🤖 **AI/ML Engineer @ Generali**  
-📆 *December 2024 – Present*  
-As an **AI/ML Engineer**, I build and maintain **machine learning pipelines**, collaborating with analysts, developers, and business teams to deliver production-ready ML solutions.  
-- Contributed to the **redesign** of the company’s **automatic email categorization system**, modernizing models and refactoring workflows.  
-- Work daily with **PyTorch**, **HuggingFace**, **Scikit-learn**, and **Pandas** in an **agile environment**.  
-- Technologies: `PyTorch`, `HuggingFace`, `Scikit-learn`, `Pandas`, `MLFlow`
-
----
-
-### 🧮 **Junior Data Engineer**  
-📆 *December 2022 – December 2024*  
-Worked as a **developer and data engineer** on a **PyQt5-based data analysis and visualization tool**, achieving significantly improved performance over existing systems.  
-- Co-authored the **visualization core** of the platform and developed **robust file system parsers**.  
-- Worked daily with **Pandas**, **NumPy**, **PyQt5**, and **MS SQL**.  
-- Technologies: `Pandas`, `NumPy`, `PyQt5`, `MS SQL`
-
----
 
 ## 🧰 My Technical Stack
 
