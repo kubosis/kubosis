@@ -34,9 +34,9 @@ I'm **Jakub Sukdol**, a **Computer Science Master's student** at **CTU FEE**, sp
 
 | Timeline | Role | Company | Focus |
 | :--- | :--- | :--- | :--- |
-| **Current** | **AI/ML Engineer** (Contract) | **Generali** | Enterprise AI solutions, Data Engineering, MLOps |
+| **Current** | **AI/ML Engineer** (Contract) | **Generali** | Enterprise AI/ML solutions, Data Engineering, MLOps |
 | **Current** | **LLM/AI Consultant** (Contract) | **DevBalance** | LLM integration, RAG architectures, Consulting |
-| **2 Years** | **Software/ML Engineer** | **Bosch** | Industrial AI, Computer Vision, Production Software |
+| **2 Years** | **Software/ML Engineer** | **Bosch** | Data Engineering, Visualization |
 
 ---
 
