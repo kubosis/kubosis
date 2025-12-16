@@ -1,60 +1,84 @@
-# 👋 Hi, I'm Jakub
+<div align="center">
 
-I'm **Jakub Sukdol**, a **Computer Science Masters student** at **CTU FEE**, specializing in **Data Science and AI/ML**.
+  # 👋 Hi, I'm Jakub
 
-## 🌐 Let's Connect
-- 📧 Email: [kuba.sukdol.7@proton.me](mailto:kuba.sukdol.7@proton.me)  
-- 💼 LinkedIn: [Jakub Sukdol](https://www.linkedin.com/in/jakub-sukdol-02b236233/)
+  <a href="https://github.com/kubosis">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;3%2B+Years+Industry+Experience;MSc+Student+@+CTU+FEE;Data+Science+%26+LLMs" alt="Typing SVG" />
+  </a>
 
-<img src="https://static.wikia.nocookie.net/nyancat/images/6/6b/HCJazzCat.gif/revision/latest?cb=20221227075019" alt="ai" width="320" height="240"/>
+  <br/>
+
+  <img src="https://static.wikia.nocookie.net/nyancat/images/6/6b/HCJazzCat.gif/revision/latest?cb=20221227075019" alt="ai" width="150"/>
+
+  <br/><br/>
+
+  <a href="mailto:kuba.sukdol.7@proton.me">
+    <img src="https://img.shields.io/badge/Email-kuba.sukdol.7%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jakub-sukdol-02b236233/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Sukdol-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=kubosis&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
-- 🎓 **Education:** CTU FEE, Computer Science (curently pursuing masster's degree)
-- 🛠️ **Job:** AI/ML Engineer (Contract) @ Generali & LLM/AI Consultant (Contract) @ DevBalance  
-- 🧩 **Focus Areas:** Data Science, Machine Learning, AI, NLP, LLMs
+
+I'm **Jakub Sukdol**, a **Computer Science Master's student** at **CTU FEE**, specializing in **Data Science and AI/ML**. I bridge the gap between academic research and production-grade engineering, leveraging over **3 years of industry experience** to build robust data solutions.
+
+| | |
+|:--- |:--- |
+| ![Education](https://img.shields.io/badge/Education-MSc_Candidate_@_CTU-0078D4?style=flat&logo=academic&logoColor=white) | Currently pursuing a Master's degree in Computer Science, researching **Graph Neural Networks**. |
+| ![Focus](https://img.shields.io/badge/Focus-Data_Science_&_AI-EE4C2C?style=flat&logo=openai&logoColor=white) | Specializing in **Deep Learning**, **Scalable ML**, **LLMs**, and **Production AI** pipelines. |
+| ![Philosophy](https://img.shields.io/badge/Philosophy-Open_Source_&_CLI-10B981?style=flat&logo=gnu-bash&logoColor=white) | Big fan of **Open Source** collaboration and **Modern Terminal** workflows (TUI Tools, yazi, bat, ...). |
+
+## 💼 Industry Experience (3+ Years)
+
+| Timeline | Role | Company | Focus |
+| :--- | :--- | :--- | :--- |
+| **Current** | **AI/ML Engineer** (Contract) | **Generali** | Enterprise AI solutions, Data Engineering, MLOps |
+| **Current** | **LLM/AI Consultant** (Contract) | **DevBalance** | LLM integration, RAG architectures, Consulting |
+| **2 Years** | **Software/ML Engineer** | **Bosch** | Industrial AI, Computer Vision, Production Software |
+
+---
 
 ## 🧰 My Technical Stack
 
 | Category | Technologies |
-|---------|--------------|
-| **Tools & Environment** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> Linux (Ubuntu, Debian, RedHat), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/> Windows, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/> Bash, <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40"/> PowerShell, <img src="https://www.oxiane.com/wp-content/uploads/sites/4/2024/10/WSL2.png" width="40"/> WSL2,                     🛰️ Routing Architectures |
-| **Languages & Foundations** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> Python, <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40"/> C, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> C++, 🌐 TCP/IP Networking |
-| **Data Engineering** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> Pandas, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> NumPy, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL, Oracle, MS SQL, SQLite, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB, <img src="https://cdn.imgbin.com/24/13/20/imgbin-neo4j-graph-database-logo-query-language-hard-disc-MVdEW0NF8VRX0Ze3DwF1sBFyJ.jpg" width="40"/> Neo4j |
-| **Visualization** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/> Matplotlib, <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/> Seaborn, <img src="https://doc.qt.io/qtforpython-6/_static/qtforpython.png" width="40"/> PyQt |
-| **ML / Data Science** | <img src="https://scipy.org/images/logo.svg" width="40"/> SciPy, <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> scikit-learn, <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="40"/> XGBoost, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/> PyTorch, <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" width="40"/> PyG, <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="Optuna" width="40" height="40"/>Optuna |
-| **ML & LLM Engineering** | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/> Hugging Face, <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" width="40"/> LangChain, <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-512x339.png" width="40"/> ChromaDB, <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" width="40"/> Qdrant, <img src="https://ubuntuhandbook.org/wp-content/uploads/2021/12/tesseract-icon.webp" width="40"/> Tesseract OCR, <img src="https://blog.viasocket.com/blog/content/images/2025/04/5a28015a-b297-4639-987a-09d8f01010c2.png" width="40"/> MCP Server |
-| **Software Eng** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> OOP & Typing, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Async, <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/api-icon.png" width="20"/> REST API, <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSZ_mYAObt7beUWXmjAZpHug0ZxU-O7ZGGw&s" width="20"/> Swagger / OpenAPI, <img src="https://www.sync.blue/static/img/app_logos/microsoft-graph-api-logo.webp" width="20"/> Graph API, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="20"/> ELK Stack |
-| **Backend (Python)** | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/> FastAPI, <img src="https://raw.githubusercontent.com/tomchristie/uvicorn/main/docs/uvicorn.png" width="40"/> Uvicorn, <img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" width="40"/> SQLAlchemy, <img src="https://www.datocms-assets.com/55475/1716517299-alembic-logo-stacked-solid-3-1.svg?auto=format&fit=max&w=1200" width="40"/> Alembic |
-| **MLOps / DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> Git, <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40"/> GitHub Actions, <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="40"/> Jenkins, <img src="https://avatars.githubusercontent.com/u/39938107?v=4" width="40"/> MLflow, <img src="https://azure.microsoft.com/svghandler/azureai-logo?width=600&height=315" width="40"/> Azure AI Foundry, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> Docker, <img src="https://raw.githubusercontent.com/docker/compose/main/logo.png" width="40"/> Docker Compose |
-| **Misc** | <img src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.32.0/1764863666466/Microsoft.VisualStudio.Services.Icons.Default" width="40"/> Ruff, <img src="https://plugins.jetbrains.com/files/24963/635594/icon/default.svg" width="40"/> uv, <img src="https://fileproinfo.com/images/make_file_extension.png" width="40"/> Makefile, <img src="https://pre-commit.com/logo.svg" width="40"/> pre-commit, <img src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png" width="40"/> SSH |
-
-
-
----
-
-## 🚀 Projects & Interests
-- 🔍 Exploring the boundaries of Machine Learning  
-- 💻 Working on Python-based data analysis & AI projects  
-- 📚 **Current Project:** Master's thesis on integrating **statistical rating systems** as **graph neural network layers** in PyTorch  
+|:---------|:-------------|
+| **Tools & Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-0078D4?logo=windows&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-gray) |
+| **Data Engineering** | ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoft-sql-server&logoColor=white) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3F4F75?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white) |
+| **ML / Data Science** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![PyG](https://img.shields.io/badge/PyG-3C2179?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-15B0AA?logo=xgboost&logoColor=white) ![Optuna](https://img.shields.io/badge/Optuna-466BB0?logo=opentelemetry&logoColor=white) |
+| **ML & LLM Engineering** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-cc2b5e?logo=database&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-b91d47?logo=database&logoColor=white) ![Tesseract](https://img.shields.io/badge/Tesseract-OCR-blue) ![MCP](https://img.shields.io/badge/MCP-Server-grey) |
+| **Software Eng** | ![OOP](https://img.shields.io/badge/OOP-Typing-000000) ![Async](https://img.shields.io/badge/Async-IO-000000) ![REST](https://img.shields.io/badge/REST-API-009688) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) ![Graph API](https://img.shields.io/badge/Graph_API-0078D4?logo=microsoft&logoColor=white) ![ELK](https://img.shields.io/badge/ELK_Stack-005571?logo=elastic&logoColor=white) |
+| **Backend (Python)** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?logo=gunicorn&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-6BA81E?logo=python&logoColor=white) |
+| **MLOps / DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoft-azure&logoColor=white) |
+| **Misc** | ![Ruff](https://img.shields.io/badge/Ruff-FCC624?logo=python&logoColor=black) ![uv](https://img.shields.io/badge/uv-DE5FE7?logo=python&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-34495E?logo=gnu&logoColor=white) ![Pre-commit](https://img.shields.io/badge/pre--commit-FAB040?logo=pre-commit&logoColor=black) ![SSH](https://img.shields.io/badge/SSH-231F20?logo=openssh&logoColor=white) |
 
 ---
 
 ## 🧩 Key Personal / School Projects
-
 | Project | Stack | Description |
-| ----------- | ----------- | ------------ |
-| <img src="https://github.com/kubosis/NeRa/blob/main/docs/logo.png" alt="PyTorch" width="60" height="40"/><br>[**NeRa**](https://github.com/kubosis/NeRa) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>PyTorch<br><img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pyg" width="40" height="40"/><br>PyG | Python package for seamless integration of statistical rating systems into graph neural networks. A full GNN with NeRa layers can be found [here](https://github.com/kubosis/rating_gnn). |
-| [**MLP_VIZ**](https://github.com/kubosis/MLP_VIZ) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>PyTorch<br><img src="https://e7.pngegg.com/pngimages/309/623/png-clipart-pyqt-pyside-widget-toolkit-graphical-user-interface-others-miscellaneous-angle-thumbnail.png" alt="PyQt5" width="40" height="40"/><br>PyQt5 | Visualizer of MLP neural network layers. Supports PyTorch models with UI written in PyQt5. |
-| [**CTF-Infrastructure-Server**](https://github.com/kubosis/CTF-Infractructure-Server) | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>FastAPI<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/><br>React | Secure CTF challenge hosting server with predefined tasks and CI/CD pipeline. Built with FastAPI backend, React + TailwindCSS frontend, and Dockerized environment. |
-| [**HyperTune**](https://github.com/kubosis/NPFL_model_optimizer) | <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="Optuna" width="40" height="40"/>Optuna<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>PyTorch | Automatic and configurable PyTorch deep learning model optimizer developed for [NPFL138](https://ufal.mff.cuni.cz/courses/npfl138/2324-summer) Deep Learning course. |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/kubosis/torch-rating/main/docs/logo3.webp" alt="torch-rating" width="60"/><br>[**torch-rating**](https://github.com/kubosis/torch-rating) | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyG-3C2179?logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="20"/> | **Python Package:** Seamless integration of statistical rating systems into Graph Neural Networks. Full GNN implementation [here](https://github.com/kubosis/rating_gnn). |
+| <img src="https://raw.githubusercontent.com/kubosis/pwndepot/devel/assets/pwndepot_standard.png" alt="PwnDépôt" width="60"/><br>[**PwnDépôt**](https://github.com/kubosis/CTF-Infractructure-Server) | <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="20"/> | **Infrastructure:** Secure CTF challenge hosting server with predefined tasks and CI/CD pipeline. Built with FastAPI backend, React + TailwindCSS frontend, and Dockerized environment. |
+| [**MLP_VIZ**](https://github.com/kubosis/MLP_VIZ) | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white" height="20"/> | **Visualizer:** Interactive visualization of MLP neural network layers and weights. Supports PyTorch models with a PyQt5 UI. |
+| [**HyperTune**](https://github.com/kubosis/NPFL_model_optimizer) | <img src="https://img.shields.io/badge/Optuna-61DAFB?logo=opentelemetry&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20"/> | **Optimizer:** Automatic and configurable PyTorch deep learning model optimizer developed for [NPFL138](https://ufal.mff.cuni.cz/courses/npfl138/2324-summer) Deep Learning course. |
 
 ---
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=highcontrast&hide=html,jupyter%20notebook)
+## 📊 GitHub Stats
 
-Although **C** is the most prevalent language in my GitHub repositories, I currently focus primarily on **Python** for applied AI and ML research.
+<div align="center">
 
----
+| General Stats | Top Languages | Streak |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=kubosis&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="140" alt="stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubosis&layout=compact&theme=transparent&hide_border=true&hide=html,jupyter%20notebook" height="140" alt="langs"/> | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=kubosis&theme=transparent&hide_border=true&v=5" height="140" alt="streak"/></a> |
+
+</div>
