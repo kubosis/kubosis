@@ -1,32 +1,26 @@
 <div align="center">
-
-  # 👋 Hi, I'm Jakub
-
-  <a href="https://github.com/kubosis">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;3%2B+Years+Industry+Experience;MSc+Student+@+CTU+FEE;Data+Science+%26+LLMs" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <img src="https://static.wikia.nocookie.net/nyancat/images/6/6b/HCJazzCat.gif/revision/latest?cb=20221227075019" alt="ai" width="150"/>
-
-  <br/><br/>
-
-  <a href="mailto:kuba.sukdol.7@proton.me">
-    <img src="https://img.shields.io/badge/Email-kuba.sukdol.7%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jakub-sukdol-02b236233/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Sukdol-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=kubosis&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-
+  <table border="0" width="100%">
+    <tr>
+      <td width="65%" valign="middle">
+        <h1>👋 Hi, I'm Jakub</h1>
+        <a href="https://github.com/kubosis">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=AI%2FML+Engineer;3%2B+Years+Industry+Experience;MSc+Student+@+CTU+FEE;Data+Science+%26+LLMs" alt="Typing SVG" />
+        </a>
+        <br/><br/>
+        <a href="mailto:kuba.sukdol.7@proton.me"><img src="https://img.shields.io/badge/Email-kuba.sukdol.7%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email"/></a><br/>
+        <a href="https://www.linkedin.com/in/jakub-sukdol-02b236233/"><img src="https://img.shields.io/badge/LinkedIn-Jakub%20Sukdol-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a><br/>
+        <img src="https://komarev.com/ghpvc/?username=kubosis&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+      </td>
+      <td width="35%" align="center" valign="middle">
+        <img src="https://static.wikia.nocookie.net/nyancat/images/6/6b/HCJazzCat.gif/revision/latest?cb=20221227075019" alt="ai" width="280"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm **Jakub Sukdol**, a **Computer Science Master's student** at **CTU FEE**, specializing in **Data Science and AI/ML**. I bridge the gap between academic research and production-grade engineering, leveraging over **3 years of industry experience** to build robust data solutions.
 
@@ -36,7 +30,7 @@ I'm **Jakub Sukdol**, a **Computer Science Master's student** at **CTU FEE**, sp
 | ![Focus](https://img.shields.io/badge/Focus-Data_Science_&_AI-EE4C2C?style=flat&logo=openai&logoColor=white) | Specializing in **Deep Learning**, **Scalable ML**, **LLMs**, and **Production AI** pipelines. |
 | ![Philosophy](https://img.shields.io/badge/Philosophy-Open_Source_&_CLI-10B981?style=flat&logo=gnu-bash&logoColor=white) | Big fan of **Open Source** collaboration and **Modern Terminal** workflows (TUI Tools, yazi, bat, ...). |
 
-## 💼 Industry Experience (3+ Years)
+## Industry Experience (3+ Years)
 
 | Timeline | Role | Company | Focus |
 | :--- | :--- | :--- | :--- |
@@ -46,7 +40,7 @@ I'm **Jakub Sukdol**, a **Computer Science Master's student** at **CTU FEE**, sp
 
 ---
 
-## 🧰 My Technical Stack
+## My Technical Stack
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -63,7 +57,7 @@ I'm **Jakub Sukdol**, a **Computer Science Master's student** at **CTU FEE**, sp
 
 ---
 
-## 🧩 Key Personal / School Projects
+## Key Personal / School Projects
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/kubosis/torch-rating/main/docs/logo3.webp" alt="torch-rating" width="60"/><br>[**torch-rating**](https://github.com/kubosis/torch-rating) | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PyG-3C2179?logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="20"/> | **Python Package:** Seamless integration of statistical rating systems into Graph Neural Networks. Full GNN implementation [here](https://github.com/kubosis/rating_gnn). |
